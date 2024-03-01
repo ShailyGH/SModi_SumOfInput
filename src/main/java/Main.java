@@ -11,5 +11,6 @@ public class Main {
         int sum = sum1.sumOfNumbersUsingWhileLoop(number);
 
         System.out.println(sum);
+
     }
 }
